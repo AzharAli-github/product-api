@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Shirt",
+        "description": "Mens Shirt",
+        "price": 2000,
+        "imgSrc": "shirtOne"
+    },
+    {
+        "name": "Shirt",
+        "description": "Mens Shirt",
+        "price": 3000,
+        "imgSrc": "shirtTwo"
+    },
+    {
+        "name": "Shirt",
+        "description": "Mens Shirt",
+        "price": 2500,
+        "imgSrc": "shirtThree"
+    },
+    {
+        "name": "jacket",
+        "description": "Mens Jacket",
+        "price": 4000,
+        "imgSrc": ""
+    },
+    {
+        "name": "cap",
+        "description": "Cap",
+        "price": 1000,
+        "imgSrc": ""
+    },
+    {
+        "name": "pent",
+        "description": "Mens Pent",
+        "price": 2000,
+        "imgSrc": ""
+    },
+    {
+        "name": "Pent",
+        "description": "Mens Pent",
+        "price": 2500,
+        "imgSrc": ""
+    }
+]
