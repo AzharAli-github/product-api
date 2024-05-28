@@ -3,7 +3,7 @@
         "name": "Shirt",
         "description": "Mens Shirt",
         "price": 2000,
-        "imgSrc": "shirtOne"
+        "imgSrc": "https://azharali-github.github.io/product-api/products.json"
     },
     {
         "name": "Shirt",
